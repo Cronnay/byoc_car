@@ -1,4 +1,4 @@
-# BYOC CAR - Build your own Car (WIP)
+# DIY Car - Do it yourself Car (WIP)
 
 To get started:
 
